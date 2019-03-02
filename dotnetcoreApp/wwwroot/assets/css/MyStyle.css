@@ -1,0 +1,138 @@
+.elementType {
+    background: #eee;
+    color: #aaa;
+    cursor: pointer;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+    .elementType:hover {
+        background: #2962FF;
+        color:#fff;
+    }
+
+.my-seed-view-square-dark {
+    width: 500px;
+    color: #fff;
+    background-color: #141619;
+    padding: 10px 20px 10px 10px;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    border: 1px solid #141619;
+}
+.my-seed-view-square-light {
+   width:500px;
+	color:#1f1f1f;
+    background-color: #f2f2f2;
+    padding: 10px 20px 10px 10px;
+    position: fixed;
+      bottom:10px;
+    left: 10px;
+    border: 1px solid #f2f2f2;
+}
+.my-seed-view-drop-light {
+   width:500px;
+	color:#1f1f1f;
+    background-color: #f2f2f2;
+    padding: 20px 90px 10px 50px;
+    position: fixed;
+      bottom:10px;
+    left: 10px;
+    border: 1px solid #f2f2f2;
+	border-radius: 90px 90px 90px 0px;
+}
+.my-seed-view-drop-dark {
+   width:500px;
+	color:#fff;
+    background-color: #141619;
+    padding: 20px 90px 10px 50px;
+    position: fixed;
+      bottom:10px;
+    left: 10px;
+    border: 1px solid #141619;
+	border-radius: 90px 90px 90px 0px;
+}
+.my-seed-view-long-dark {
+	width:300px;
+	
+	color:#fff;
+    background-color: #141619;
+    padding: 10px 20px 10px 10px;
+    position: fixed;
+    bottom:10px;
+    left: 10px;
+    border: 1px solid #141619;
+   
+}
+
+.my-seed-view-long-dark span{
+position:absolute;
+}
+
+.my-seed-view-long-light {
+	width:300px;
+	
+	color:#1f1f1f;
+    background-color: #f2f2f2;
+    padding: 10px 20px 10px 10px;
+    position: fixed;
+    bottom:10px;
+    left: 10px;
+    border: 1px solid #f2f2f2;
+   
+}
+
+.my-seed-view-long-light span{
+position:absolute;
+}
+
+
+
+p { word-break: break-all }
+
+.my-seed-view-Form-dark{
+ 
+   width: 400px;
+    color: #fff;
+    background-color: #141619;
+    padding: 30px 20px 30px 10px;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    border: 1px solid #141619;
+ 
+ }
+ .Input-text {
+  margin-bottom:20px;
+ padding:5px 10px 5px 10px;
+  border: none;
+  border-radius: 0.1rem;
+  width:250px;
+
+}
+ .button-text {
+  margin-bottom:20px;
+ padding:5px 10px 5px 10px;
+  border: none;
+  border-radius: 0.1rem;
+  width:250px;
+  cursor:pointer;
+  background:#007bff;
+  color:#fff;
+
+}
+
+.my-seed-view-Form-light{
+ 
+   width: 400px;
+     color: #1f1f1f;
+    background-color: #f2f2f2;
+    padding: 30px 20px 30px 10px;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    border: 1px solid #f2f2f2;
+ 
+ }
